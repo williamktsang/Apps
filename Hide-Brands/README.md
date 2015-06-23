@@ -1,14 +1,9 @@
-# App name
+# Hide Brands
 
-[brief description of the app]
+This Agent facing application hides brands by groups. 
 
-### The following information is displayed:
+### The following information is required:
 
-* info1
-* info2
-* info3
+* JSON Mapping Object Required Parameter 
 
-Please submit bug reports to [Insert Link](). Pull requests are welcome.
-
-### Screenshot(s):
-[put your screenshots down here.]
+* {"Andromeda":{"groupId":[25359548,25839928,25839938,25818427],"brandId":343398},"Aurora":{"groupId":[25359548,25839928,25839938,25839908],"brandId":340618},"Kepler":{"groupId":[25359548,25839928,25839938,25818437],"brandId":343408},"Milky Way":{"groupId":[25359548,25839928,25839938,25818417],"brandId":340628},"William Tsang":{"groupId":[25359548,25839928,25839938],"brandId":227928}}
