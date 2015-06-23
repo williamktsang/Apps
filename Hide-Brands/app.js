@@ -1,7 +1,4 @@
 (function() {
-  console.log('way up here woop')
-  // console.log(this.ticket())\
-  console.log(this)
   return {
     appID:  'hide_brands_app_based_on_current_user',    
     groupBrandMapping: {},
